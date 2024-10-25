@@ -1,0 +1,17 @@
+{
+  "name": "projeto_quiz_fatos_historicos",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "projeto_quiz_fatos_historicos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "description": ""
+}
